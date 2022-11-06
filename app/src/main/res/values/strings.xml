@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Auth0DemoApplication</string>
+    <string name="login">Login To Authenticate</string>
+    <string name="logout">Logout</string>
+    <string name="info_text">Please Login to Fetch \nthe User\'s Info</string>
+    <string name="main_screen">Main Screen</string>
+    <string name="login_scope">openid profile email read:current_user update:current_user_metadata</string>
+    <string name="successfully_login">Successfully Login</string>
+    <string name="successfully_logout">Successfully Logged out</string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+</resources>
